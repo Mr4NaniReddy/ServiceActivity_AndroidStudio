@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceActivity</string>
+    <string name="start_text">Start</string>
+    <string name="stop_text">Stop</string>
+    <string name="count_text">Count</string>
+    <string name="_0_text">0</string>
+</resources>
